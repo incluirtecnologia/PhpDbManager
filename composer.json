@@ -1,0 +1,16 @@
+{
+    "name": "intec/db-manager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Márcio Dias",
+            "email": "marciojr91@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	  "autoload": {
+        "psr-4": {"Intec\\DbManager\\": "src"}
+    }
+}
